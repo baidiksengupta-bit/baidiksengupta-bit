@@ -77,9 +77,9 @@ I enjoy turning ideas into working applications, experimenting with new technolo
 
 <div align="center">
 
-|⭐ Stars | 👥 Followers | 🔥 Streak |
-|:---:|:---:|:---:|
-|![Stars](https://img.shields.io/github/stars/baidiksengupta-bit?affiliations=OWNER&style=for-the-badge) | ![Followers](https://img.shields.io/github/followers/baidiksengupta-bit?style=for-the-badge) | ![Streak](https://img.shields.io/badge/GitHub-Streak-blue?style=for-the-badge) |
+|⭐ Stars | 👥 Followers |
+|:---:|:---:|
+|![Stars](https://img.shields.io/github/stars/baidiksengupta-bit?affiliations=OWNER&style=for-the-badge) | ![Followers](https://img.shields.io/github/followers/baidiksengupta-bit?style=for-the-badge) |
 
 </div>
 
