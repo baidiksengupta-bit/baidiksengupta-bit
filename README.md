@@ -1,18 +1,187 @@
-<h1 align="center">Hi 👋, I'm Baidik Sengupta</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring Full-Stack Developer</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baidiksengupta-bit&label=Profile%20views&color=0e75b6&style=flat" alt="baidiksengupta-bit" /> </p>
+<div align="center">
 
-- 📫 How to reach me **baidiksengupta@gmail.com**
+# 👋 Hi, I'm **Baidik Sengupta**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/baidik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baidik09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/baidik-sengupta-b5708b423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baidik-sengupta-b5708b423" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=61590045673666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61590045673666" height="30" width="40" /></a>
-<a href="https://instagram.com/ofc._.rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofc._.rishi" height="30" width="40" /></a>
+### 💻 Computer Science Undergraduate | 🚀 Aspiring Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Exploring+AI+%26+Modern+Developer+Tools+%F0%9F%A4%96;Turning+Ideas+Into+Projects+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=baidiksengupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 🧑‍💻 About Me
+
+I'm **Baidik**, a Computer Science undergraduate passionate about building useful software and continuously improving my development skills.
+
+- 🔭 Currently working on **full-stack projects**
+- 🌱 Learning **Data Structures, Systems Programming & Cloud**
+- 🤖 Exploring **AI tools and AI-powered applications**
+- 💻 Interested in **Full-Stack Development**
+- 🧠 Focused on writing cleaner, scalable and maintainable code
+- 🚀 Goal: **Build real-world products, not just tutorial projects**
+
+> *"Code. Build. Break. Learn. Repeat."*
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css&theme=dark" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Frontend & Backend
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter&theme=dark" />
+
+</p>
+
+### Databases & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" />
+
+</p>
+
+### AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+</p>
+
+---
+
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baidiksengupta-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baidiksengupta-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baidiksengupta-bit&theme=tokyonight" width="95%" />
+
+</div>
+
+---
+
+<!-- ======================= STATS ======================= -->
+
+## 🏆 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baidiksengupta-bit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=baidiksengupta-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" />
+
+</div>
+
+---
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baidiksengupta-bit&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ======================= CONTRIBUTION STATS ======================= -->
+
+## 🔥 My Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=baidiksengupta-bit&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Baidik's%20GitHub%20Activity" />
+
+</div>
+
+---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 Replace `YOUR-REPO-1` etc. with the names of your best repositories.
+
+---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+## 🌱 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Systems Programming
+        ↓
+Full-Stack Development
+        ↓
+Cloud & DevOps
+        ↓
+AI-powered Applications
