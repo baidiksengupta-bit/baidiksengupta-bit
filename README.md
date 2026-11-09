@@ -65,8 +65,6 @@ I enjoy turning ideas into working applications, experimenting with new technolo
 
 ---
 
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -79,9 +77,9 @@ I enjoy turning ideas into working applications, experimenting with new technolo
 
 <div align="center">
 
-| 📦 Repositories | ⭐ Stars | 👥 Followers | 🔥 Streak |
-|:---:|:---:|:---:|:---:|
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbaidiksengupta--bit&style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/baidiksengupta-bit?affiliations=OWNER&style=for-the-badge) | ![Followers](https://img.shields.io/github/followers/baidiksengupta-bit?style=for-the-badge) | ![Streak](https://img.shields.io/badge/GitHub-Streak-blue?style=for-the-badge) |
+|⭐ Stars | 👥 Followers | 🔥 Streak |
+|:---:|:---:|:---:|
+|![Stars](https://img.shields.io/github/stars/baidiksengupta-bit?affiliations=OWNER&style=for-the-badge) | ![Followers](https://img.shields.io/github/followers/baidiksengupta-bit?style=for-the-badge) | ![Streak](https://img.shields.io/badge/GitHub-Streak-blue?style=for-the-badge) |
 
 </div>
 
@@ -194,26 +192,6 @@ I enjoy turning ideas into working applications, experimenting with new technolo
 </a>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/baidiksengupta-bit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR_PROJECT_1&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/baidiksengupta-bit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR_PROJECT_2&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
-> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
-
----
 
 # 📚 Currently Learning
 
