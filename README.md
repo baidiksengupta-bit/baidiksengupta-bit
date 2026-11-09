@@ -1,187 +1,278 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+<!--                     BAIDIK SENGUPTA                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 # 👋 Hi, I'm **Baidik Sengupta**
 
-### 💻 Computer Science Undergraduate | 🚀 Aspiring Full-Stack Developer
+### 💻 Computer Science Undergraduate • 🚀 Aspiring Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Exploring+AI+%26+Modern+Developer+Tools+%F0%9F%A4%96;Turning+Ideas+Into+Projects+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Building+Full-Stack+Applications;Learning+DSA+%26+Systems+Programming;Exploring+Cloud+%26+AI+Tools;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=baidiksengupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <a href="https://github.com/baidiksengupta-bit">
+    <img src="https://komarev.com/ghpvc/?username=baidiksengupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/baidiksengupta-bit?tab=followers">
+    <img src="https://img.shields.io/github/followers/baidiksengupta-bit?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  </a>
+  <a href="https://github.com/baidiksengupta-bit?tab=repositories">
+    <img src="https://img.shields.io/github/stars/baidiksengupta-bit?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  </a>
+</p>
 
 </div>
 
 ---
-
-<!-- ======================= ABOUT ======================= -->
 
 ## 🧑‍💻 About Me
 
-I'm **Baidik**, a Computer Science undergraduate passionate about building useful software and continuously improving my development skills.
+```yaml
+Name: Baidik Sengupta
+Role: Computer Science Undergraduate
+Focus:
+  - Full-Stack Development
+  - Data Structures & Algorithms
+  - Systems Programming
+  - Cloud Technologies
+  - AI-powered Applications
 
-- 🔭 Currently working on **full-stack projects**
-- 🌱 Learning **Data Structures, Systems Programming & Cloud**
-- 🤖 Exploring **AI tools and AI-powered applications**
-- 💻 Interested in **Full-Stack Development**
-- 🧠 Focused on writing cleaner, scalable and maintainable code
-- 🚀 Goal: **Build real-world products, not just tutorial projects**
+Currently_learning:
+  - Advanced DSA
+  - Backend Architecture
+  - Cloud Development
+  - Modern AI Tooling
 
-> *"Code. Build. Break. Learn. Repeat."*
+Goal:
+  - Build scalable, useful and production-ready software
+```
+
+I'm currently focused on strengthening my **CS fundamentals** while building practical projects across the full stack.
+
+I enjoy turning ideas into working applications, experimenting with new technologies, and continuously improving my development workflow.
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+## 🚀 What I'm Currently Working On
 
-## ⚡ Tech Stack
+- 🧠 Mastering **Data Structures & Algorithms**
+- ⚙️ Learning **systems programming and computer science fundamentals**
+- 🌐 Building **full-stack applications**
+- ☁️ Exploring **cloud technologies and deployment**
+- 🤖 Learning how to build applications using **modern AI tooling**
+- 🛠️ Improving my Git, GitHub and software-engineering workflow
 
-### Languages
+---
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=baidiksengupta-bit&hide_border=true&theme=transparent" alt="GitHub Streak" />
+
+</div>
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+| 📦 Repositories | ⭐ Stars | 👥 Followers | 🔥 Streak |
+|:---:|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbaidiksengupta--bit&style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/baidiksengupta-bit?affiliations=OWNER&style=for-the-badge) | ![Followers](https://img.shields.io/github/followers/baidiksengupta-bit?style=for-the-badge) | ![Streak](https://img.shields.io/badge/GitHub-Streak-blue?style=for-the-badge) |
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+### 🧠 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css&theme=dark" />
+<a href="https://www.cprogramming.com/">
+<img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/">
+<img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+</a>
 
 </p>
 
-### Frontend & Backend
+### 🌐 Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter&theme=dark" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+</a>
+
+<a href="https://flutter.dev/">
+<img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
+</a>
 
 </p>
 
-### Databases & Tools
+### ⚙️ Backend & Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" />
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+</a>
+
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" width="50" alt="Django"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+</a>
 
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="TensorFlow"/>
+</a>
+
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
+</a>
 
 </p>
 
 ---
 
-<!-- ======================= GITHUB ANALYTICS ======================= -->
-
-## 📊 GitHub Analytics
+# 📌 Featured Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baidiksengupta-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baidiksengupta-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baidiksengupta-bit&theme=tokyonight" width="95%" />
-
-</div>
-
----
-
-<!-- ======================= STATS ======================= -->
-
-## 🏆 GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baidiksengupta-bit&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=baidiksengupta-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%" />
-
-</div>
-
----
-
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baidiksengupta-bit&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- ======================= CONTRIBUTION STATS ======================= -->
-
-## 🔥 My Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=baidiksengupta-bit&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Baidik's%20GitHub%20Activity" />
-
-</div>
-
----
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/baidiksengupta-bit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR_PROJECT_1&theme=transparent&hide_border=true" />
 </a>
 
-<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/baidiksengupta-bit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR_PROJECT_2&theme=transparent&hide_border=true" />
 </a>
 
 </div>
 
-<br/>
+> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
+
+---
+
+# 📚 Currently Learning
 
 <div align="center">
 
-<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true" />
+| Area | Focus |
+|---|---|
+| 🧠 **DSA** | Algorithms, problem solving & complexity |
+| ⚙️ **Systems** | Low-level programming & computer fundamentals |
+| 🌐 **Full Stack** | Frontend + Backend + APIs |
+| ☁️ **Cloud** | Deployment, services & scalable applications |
+| 🤖 **AI** | Modern AI tools & AI-powered applications |
+| 🔧 **Git** | Collaboration, branching & production workflows |
+
+</div>
+
+
+# 💡 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Developer Quote"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:baidiksengupta@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/baidiksengupta-bit/YOUR-REPO-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baidiksengupta-bit&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true" />
+<a href="https://linkedin.com/in/baidik-sengupta-b5708b423">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/baidik09">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://instagram.com/ofc._.rishi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
 
-> 💡 Replace `YOUR-REPO-1` etc. with the names of your best repositories.
-
 ---
 
-<!-- ======================= CURRENTLY LEARNING ======================= -->
+<div align="center">
 
-## 🌱 Currently Learning
+### 🚀 *Code. Learn. Build. Repeat.*
 
-```text
-Data Structures & Algorithms
-        ↓
-Systems Programming
-        ↓
-Full-Stack Development
-        ↓
-Cloud & DevOps
-        ↓
-AI-powered Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                    END OF PROFILE README                  -->
+<!-- ========================================================= -->
